@@ -1,42 +1,11 @@
 utilities
 =========
 
-# various utility programs
+# Generic Reusable Application Log Scraper
 
 ## Author
 
-Robin Gowin, September 2014 - October 2014
-
-## Overview
-
-Utilities overview:	
-
-* check.py
-* checklogs.py
-* monitoring.txt
-* my-mail.py
-* test-check.py
-
-Generic log scraper (see below for more details)
-
-* countlines.py
-
-simple utility to count lines in a file
-
-* get-os.py
-
-print operating system version details
-
-* ps.py
-
-format output of ps aux and filter and loop
-
-* utils.py
-* test-utils.py
-
-simple utility methods and variables
-
-# Generic Reusable Application Log Scraper
+Robin Gowin, September 2014
 
 ## Overview
 
@@ -215,4 +184,5 @@ see github
 
 * my utilities
 * first version 09/30/14
+* push with corrected git config info
 
