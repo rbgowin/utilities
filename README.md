@@ -205,7 +205,7 @@ simple utility methods and variables
 
 see github
 
-[https://github.com/landr100/utilities/tree/master/python](https://github.com/landr100/utilities/tree/master/python)
+[https://github.com/rbgowin/utilities/tree/master/python](https://github.com/rbgowin/utilities/tree/master/python)
 
 * my utilities
 * first version 09/30/14
