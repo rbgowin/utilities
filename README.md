@@ -201,11 +201,11 @@ simple utility methods and variables
 * test-utils.py
 
 
-# source
+# source for simple utilities
 
 see github
 
-[https://github.com/rbgowin/utilities/tree/master/python](https://github.com/rbgowin/utilities/tree/master/python)
+[https://github.com/rbgowin/utilities/tree/master/python-utils](https://github.com/rbgowin/utilities/tree/master/python-utils)
 
 * my utilities
 * first version 09/30/14
