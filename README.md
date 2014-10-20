@@ -1,40 +1,19 @@
-utilities
-=========
-
-# various utility programs
+monitoring and utilities
+========================
 
 ## Author
 
 Robin Gowin, September 2014 - October 2014
 
-## Overview
+## Source
 
-Utilities overview:	
+Monitoring source files:	
 
 * check.py
 * checklogs.py
 * monitoring.txt
 * my-mail.py
 * test-check.py
-
-Generic log scraper (see below for more details)
-
-* countlines.py
-
-simple utility to count lines in a file
-
-* get-os.py
-
-print operating system version details
-
-* ps.py
-
-format output of ps aux and filter and loop
-
-* utils.py
-* test-utils.py
-
-simple utility methods and variables
 
 # Generic Reusable Application Log Scraper
 
@@ -205,6 +184,21 @@ The following table illustrates a handful of potential use cases for log scrapin
     <td>search nginx logs for errors or warnings</td>
   </tr>
 </table>
+
+# other utility programs
+
+* countlines.py
+simple utility to count lines in a file
+
+* get-os.py
+print operating system version details
+
+* ps.py
+format output of ps aux and filter and loop
+
+simple utility methods and variables
+* utils.py
+* test-utils.py
 
 
 # source
